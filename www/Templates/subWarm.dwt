@@ -1,0 +1,320 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>La viegan warm</title>
+<!-- TemplateEndEditable -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" href="../favicon.ico">
+<link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400,700' rel='stylesheet' type='text/css'>
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower|Roboto" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="../css/css/demo.css" />
+<link rel="stylesheet" type="text/css" href="../css/css/style.css" />
+<link rel="stylesheet" type="text/css" href="../css/css/normalize.css" />
+<link rel="stylesheet" type="text/css" href="../css/style5.css" />
+
+<!--[if lte IE 8]>
+			 <link rel="stylesheet" type="text/css" href="css/simple.css" />
+		<![endif]-->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body>
+<div class="header">
+  <header> <img src="../images/logoweb.png" id="logoheader" alt="logo la viegan" />
+    <!-- TemplateBeginEditable name="Edit menu" -->Edit menu<!-- TemplateEndEditable -->
+    <nav id="bt-menu" class="bt-menu"> <a href="#" class="bt-menu-trigger"><span>Menu</span></a>
+      <ul>
+        <li><a href="../index.html" >Home</a></li>
+		<li><a href="../pages/about.html" >About</a></li>
+		<li><a href="../pages/subWarm.html" >gerecht</a></li>
+		<li><a href="../pages/subKoud.html">Dessert</a></li>
+		<li><a href="../pages/instagram.html">Instagram</a></li>
+		<li><a href="../pages/contact.html">Contact</a></li>
+        <a href="https://www.instagram.com/la_viegan/"><img src="../pages/images/instagram.gif" alt="instagram logo" ></a>
+        <p> Made by Timon Zweistra</p>
+      </ul>
+    </nav>
+  </header>
+</div>
+<div class="container">
+  <div class="st-container">
+    <input type="radio" name="radio-set" checked="checked" id="st-control-1"/>
+    <a href="#st-panel-1">Zomerse Salade</a>
+    <input type="radio" name="radio-set" id="st-control-2"/>
+    <a href="#st-panel-2">Timmy burger</a>
+    <input type="radio" name="radio-set" id="st-control-3"/>
+    <a href="#st-panel-3">Champignon-courgette</a>
+    <input type="radio" name="radio-set" id="st-control-4"/>
+    <a href="#st-panel-4">Falafel burrito</a>
+    <input type="radio" name="radio-set" id="st-control-5"/>
+    <a href="#st-panel-5">Bapao</a>
+    <div class="st-scroll">
+    
+    <!-- Zomerse Salade -->
+    
+    <div class="st-panel" id="st-panel-6">
+    <div class="st-deco" data-icon="*"></div>
+    <a href="#popup6">
+    <h2>Zomerse salade<!-- TemplateBeginEditable name="Editnaamgerecht" -->Editnaamgerecht<!-- TemplateEndEditable --></h2>
+    </a>
+    </div>
+    <div id="popup6" class="overlay"><!-- TemplateBeginEditable name="Editgercht beschrijvin" -->
+      <div class="popup"> <a class="close" href="#">&times;</a>
+        <div class="content">
+          <h2> Zomerse salade</h2>
+          <h3> Ingredienten</h3>
+          <ul>
+            <li> 120 gram zomers fruit zoals aardbeien/mango/blauwe bessen/bramen</li>
+            <li> 1/4 van een kleine watermeloen </li>
+            <li> 75 gram botersla/veldsla </li>
+            <li> 1 courgette  </li>
+            <li> 1 wortel  </li>
+            <li> 1 bietje</li>
+            <li> 1/2 avocado </li>
+            <li> 1 eetlepel rietsuiker </li>
+            <li> 1 takje munt</li>
+            <li> 15 gram pijnboompitten  </li>
+            <li> 1/3 komkommer </li>
+            <li> Tuinkers </li>
+          </ul>
+          <h3> Optinoneel</h3>
+          <ul>
+            <li>Hennepzaad </li>
+            <li> citroen </li>
+          </ul>
+          <h3> Benodigd</h3>
+          <ul>
+            <li>Spiralizer </li>
+          </ul>
+          <ul>
+            <li> 1. Maak het fruit schoon en halveer grote stukken. Snij de watermeloen, bietjes en komkommer in blokjes of stukjes. 
+              Als je een spiralizer hebt, draai de wortel en courgette er door heen. Zo niet snij de groenten in kleine reepjes. Voeg alles in een grote schaal. </li>
+            <li> 2. Stamp de muntblaadjes fijn in een vijzel en voeg er de suiker toe. Roer goed rond tot dat de suiker de blaadjes heeft opgenomen. Besprenkel de groente/fruit en hussel het geheel door elkaar. </li>
+            <li> 3. Prak de avocado fijn met zout en peper en eventueel wat citroensap. </li>
+            <li> 4. Bak de pijnboompitten in een pan bruin.</li>
+            <li> 5. Was de sla en scheur deze in stukken boven de salade. Mix alles goed door elkaar en besprenkel opnieuw met wat suiker. Maak de salade af met wat pijnboompitten, avocado, tuinkers en eventueel wat hennepzaad. </li>
+          </ul>
+        </div>
+      </div>
+    <!-- TemplateEndEditable --></div>
+    </div>
+    <div class="st-scroll">
+    
+    <!-- esalade --> 
+    
+    
+    <!-- Burger -->
+    <div id="popup7" class="overlay"><!-- TemplateBeginEditable name="Editbeschrijvn" -->
+      <div class="popup"> <a class="close" href="#">&times;</a>
+        <div class="content">
+          <h2> Timmy Burger</h2>
+          <h3> Ingredienten voor 2 burgers</h3>
+          <ul>
+            <li> 2 burger broodjes</li>
+            <li> Ketchup </li>
+            <li> Sla</li>
+            <li> Komkommer </li>
+            <li> Tomaat </li>
+            <li> Vegan kaas </li>
+            <li> 1/2 avocado p.p. </li>
+          </ul>
+          <h3> Tomaten Burger</h3>
+          <ul>
+            <li>80 gram havermout </li>
+            <li> 2 blikjes tomatenpuree </li>
+            <li>1/2 ui </li>
+            <li> 1 teen knoflook </li>
+            <li>Peper </li>
+            <li> Zout </li>
+            <li>3 grote champignons </li>
+            <li> Komijnpoeder 1 à 2 theelepels </li>
+            <li>(Gerookte) paprikapoeder 1 eetlepel  </li>
+          </ul>
+          <ul>
+            <li> 1. Voeg de havermout , twee eetlepels water en tomatenpuree bij elkaar en zet het even apart. Roer de havermout nogmaals door. Als het een te dikke massa is, voeg dan wat water toe.  </li>
+            <li> 2. Snij de ui, knoflook en champignons fijn en voeg alle overige ingrediënten bij elkaar. Mix goed door en maak 2 burgers. </li>
+            <li> 3. Bak de burgers in een pan aan beiden kant bruin. Zet de oven op 170 graden en laat de burgers nog 10 minuten door garen. Eventueel kan je de broodjes meebakken.  </li>
+            <li> 4. Snij ondertussen de sla, komkommer,avocado en tomaat in plakjes. Leg als laatste een plak vegan kaas op de burger en laat deze 1 minuut in de oven smelten.</li>
+            <li> 5. Bouw de hamburger in laagjes op. Eindig met een klodder ketchup en eventueel wat vegan mayo.  </li>
+          </ul>
+        </div>
+      </div>
+    <!-- TemplateEndEditable --></div>
+    </div>
+    <!-- einde burger -->
+    
+    <!-- soep -->
+    <div class="st-scroll">
+    
+    <div class="st-panel" id="st-panel-8">
+    <div class="st-deco" data-icon="*"></div>
+    <!-- TemplateBeginEditable name="edit naam" --><a href="#popup8">
+    <h2>Champignon-courgette soep</h2>
+    </a><!-- TemplateEndEditable --></div>
+    <div id="popup8" class="overlay"><!-- TemplateBeginEditable name="Edit beschrijving" -->
+      <div class="popup"> <a class="close" href="#">&times;</a>
+        <div class="content">
+          <h2> Champignon-courgette soep</h2>
+          <h3> Ingredienten</h3>
+          <ul>
+            <li> 1 steel selderij</li>
+            <li> 2 teentjes knoflook </li>
+            <li> 1 wortel </li>
+            <li> 1 ui </li>
+            <li> 1/2 courgette  </li>
+            <li> 70 ml Soya creme (of een andere room vervanger) </li>
+            <li> 1 kleine aardappel  </li>
+            <li> Bouillion poeder (Bio Today) of 2 blokjes  </li>
+            <li> Peterselie (garnering)</li>
+            <li> Zout en peper </li>
+            <li> 1 eetlepel komijnpoeder </li>
+          </ul>
+          <h3> Benodigd</h3>
+          <ul>
+            <li>Blender (geen glas) of staafmixer </li>
+          </ul>
+          <ul>
+            <li> 1. Snij als eerste de knoflook en ui fijn , fruit deze in de pan en voeg een scheutje water er bij. laat het op laag vuur staan. </li>
+            <li> 2. Snij grof de groenten, zonder aardappel, in stukken en voeg dit toe aan het uienmengsel </li>
+            <li> 3. Doe er een scheutje water en 1 eetlepel bouillon poeder bij en laat het voor 5 minuten garen. Roer af en toe door. </li>
+            <li> 4. Snij de aardappel in blokjes, voeg dit samen met 300 ml water toe aan de pan en laat dit 10 minuten doorkoken.</li>
+            <li> 5. Doe de soep in de blender en blend het tot een egale massa. </li>
+            <li> 6. Voeg naar smaak wat komijnpoeder, zout en peper toe.</li>
+          </ul>
+        </div>
+      </div>
+    <!-- TemplateEndEditable --></div>
+    </div>
+    
+    
+    
+    <!-- einde soep --> 
+    
+    <!-- Falafel burrito-->
+    <div class="st-scroll">
+    <div class="st-panel" id="st-panel-9">
+      <div class="st-deco" data-icon="*"></div>
+      <!-- TemplateBeginEditable name="Editnaam" --><a href="#popup9">
+      <h2>Falafel burrito</h2>
+      </a><!-- TemplateEndEditable --></div>
+      <div id="popup9" class="overlay"><!-- TemplateBeginEditable name="gerecht beschrijving" -->
+        <div class="popup"> <a class="close" href="#">&times;</a>
+          <div class="content">
+            <h2> Falafel burrito</h2>
+            <h3> Ingredienten</h3>
+            <ul>
+              <li> Falafel</li>
+              <li> Tortilla bladen ( bij Marokkaanse toko of uit de supermarkt) </li>
+              <li> 150 gram ongekookte rijst </li>
+              <li> 2 grote aardappelen voor de aardappelpartjes</li>
+              <li> Ras el hanout kruiden</li>
+              <li> Bloem of ander bindmiddel (rijstebloem/kikkererwtenmeel,etc)</li>
+              <li> Rietsuiker </li>
+              <li> Komijnpoeder</li>
+            </ul>
+            <h4>Saus</h4>
+            <ul>
+              <li> 1/2 teen knoflook</li>
+              <li> 50 gram geweekte cashewnoten  </li>
+              <li>Tahini 1/2 eetlepel</li>
+              <li> Limoensap van 1 limoen</li>
+              <li>Sambal (optioneel) 1 theelepel </li>
+              <li> Ketjap 1 eetlepel</li>
+              <li> Munt 1 takje</li>
+              <li> Zout</li>
+              <li> Peper</li>
+            </ul>
+            <h3> Bereiding</h3>
+            <ul>
+              <li> 1. Kook de rijst volgens de verpakking. </li>
+              <li> 2. Voor de aardappel partjes zet als eerste de oven op 230 graden. Snij de aardappels in de lengte door, leg 1 helft plat neer en snij vervolgens de aardappel tweemaal door totdat je 3 partjes hebt. 
+                Herhaal dezelfde stappen voor de rest van de aardappels. Was en droog de aardappelpartjes. Voeg 1 eetl. Komijnpoeder, 1,5 eetlepel Ras el Hanout kruiden, 
+                zout,suiker en 1 eetlepel bloem in een kom en roer goed door elkaar. Coat de aardappels met de kruidenmix en hussel de aardappelen goed door zodat alle partjes gekruid zijn.  </li>
+              <li> 3. Leg de partjes met de schil onder op bakpapier, zet een hitte bestendige kom met water in de oven en schuif daarboven de bakplaat met aardappelpartjes. Bak de partjes tot ze zacht en krokant zijn. </li>
+              <li> 4. Voor de falafel kan je kant en klaar kopen of recept via deze link. Bak de falafel in de pan of in de oven. </li>
+              <li> 5. Verwarm de tortilla leg vervolgens op een platte ondergrond om ze te vullen. Begin met de rijst en eindig met de saus. Eventueel garneren met wat sla en komkommer.</li>
+            </ul>
+          </div>
+        </div>
+      <!-- TemplateEndEditable --></div>
+     </div>        
+   
+    
+    <!-- einde Burrito--> 
+    
+    <!-- Bapao -->
+    <div class="st-scroll">
+    <div class="st-panel" id="st-panel-10">
+      <div class="st-deco" data-icon="*"></div>
+      <!-- TemplateBeginEditable name="naam gerecht" --><a href="#popup10">
+      <h2>Bapao</h2>
+      </a><!-- TemplateEndEditable --></div>
+      <div id="popup10" class="overlay"><!-- TemplateBeginEditable name="gerecht beschrijving 1" -->
+        <div class="popup"> <a class="close" href="#">&times;</a>
+          <div class="content">
+            <h2> Bapao</h2>
+            <h3> Ingredienten</h3>
+            <h4>Deeg </h4>
+            <ul>
+              <li> 250 gram Bapao meel</li>
+              <li> 175 ml lauw water</li>
+              <li> 3 gram gist</li>
+              <li> 2 theelepels suiker </li>
+            </ul>
+            <h4> Vulling</h4>
+            <ul>
+              <li> 1 cm verse Laos (of 1 theelepel poeder)</li>
+              <li> 2 sjalotten  </li>
+              <li> 3 blaadjes salam </li>
+              <li> 50 gram champignons  </li>
+              <li> 2 theelepels korianderpoeder</li>
+              <li> 1 eetlepel ketjap</li>
+              <li> 1 theelepel sambal oelek</li>
+              <li> 60 gram vegan gehakt stukjes</li>
+              <li> 2 teentjes knoflook</li>
+              <li> 2 eetlepels tomatenketchup</li>
+              <li> Chilisaus(optioneel)</li>
+            </ul>
+            <h3> Benodigd</h3>
+            <ul>
+              <li>Stoommandje en bakpapier </li>
+            </ul>
+            <h3> Deeg </h3>
+            <ul>
+              <li> 1. Kneed het meel samen met de gist,suiker tot een soepel deeg. Dek de kom af met een theedoek ongeveer 15 minuten rijzen. </li>
+            </ul>
+            <h3>Vulling </h3>
+            <ul>
+              <li> 2. Snipper de sjalotten en knoflook fijn. Fruit de ui en knoflook in een hapjespan. Voeg de salamblad en Laos toe en laat het even meebakken. 
+                Hak de champignons fijn en bak dit samen met het vegan gehakt met het mengsel mee. Voeg dan de ketchup, ketjap, korianderpoeder en sambal toe, roer daarna goed door. Laat het 5 minuten op laag vuur. </li>
+            </ul>
+            <h3> Bapao </h3>
+            <ul>
+              <li> 3. Verdeel het deeg in bolletjeS ter grootte van een pingpongbal. Maak met twee vingers een kuiltje waar de vulling in kan. Schep een lepel van de vulling er in. 
+                Vouw het deeg om de vulling, indien nodig, plak het met wat water dicht. Leg de bolletjes op wat bakpapier en laat het minimaal 45 minuten rijzen. 
+                Stoom de bapao samen met wat bakpapier in 15 minuten gaar. Serveer eventueel met wat chilisaus. </li>
+            </ul>
+          </div>
+        </div>
+      <!-- TemplateEndEditable --></div>
+     </div>  
+     
+   
+    <!-- Bapao --> 
+ 
+ 
+
+<!-- // st-container -->
+</div>
+</div>
+<div class="st-panel" id="st-panel-7">
+  <div class="st-deco" data-icon="*"></div>
+  <a href="#popup7">
+    <h2>Timmy Burger</h2>
+  </a> </div>
+</body>
+<script src="../js/classie.js"></script>
+<script src="../js/borderMenu.js"></script>
+</html>
